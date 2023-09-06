@@ -1,0 +1,19 @@
+body{
+    background-color: cornflowerblue;
+    color:antiquewhite;
+}
+.heading{
+    width:80%;
+    font-size:22px;
+}
+#camera{
+    width:351px;
+    height: 220px;
+    border:2px dashed black;
+}
+#result{
+    height:200px;
+}
+.name_of_objects,#result_object_name,#result_object_accuracy{
+    color:rgb(247, 185, 61);
+}
